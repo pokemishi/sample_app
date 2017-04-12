@@ -1,12 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# sample_app
-sample_app is rails-tutorial's APP
-=======
-# README
-=======
 # Ruby on Rails チュートリアルのサンプルアプリケーション
->>>>>>> Improve the README
 
 これは、次の教材で作られたサンプルアプリケーションです。   
 [*Ruby on Rails チュートリアル: 実例を使って Rails を学ぼう*](http://railstutorial.jp/)
@@ -46,9 +38,3 @@ $ rails server
 ```
 
 詳しくは、[*Ruby on Rails チュートリアル*](http://railstutorial.jp/)を参考にしてください。
-
-<<<<<<< HEAD
-* ...
->>>>>>> Initialize repository
-=======
->>>>>>> Improve the README
